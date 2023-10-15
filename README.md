@@ -24,8 +24,7 @@
   <p>🏆 In my journey, I've left a mark on various esteemed software houses, consistently delivering exceptional solutions and earning recognition through Award-Winning projects like Koyal.pk. My passion extends beyond the corporate world - I've actively supported startups, aiding them in scaling and achieving remarkable business growth.</p>
   <p>👥 One of my proudest achievements has been assembling and guiding a dynamic team of 15+ developers, fostering collaboration and excellence in every project. Additionally, I've conceived and brought to life numerous impactful projects, including hamarieducation.com, a real-world incarnation of Wall-e.</p>
   <p>📚 For a deeper dive into my professional journey and insights, you can explore my blog at <a href="https://ibrahimwali.com">https://ibrahimwali.com</a>. Let's connect and explore opportunities to collaborate and drive innovation together.</p><br>
-
-    :email:	ibrahim.wali@hotmail.com <br>
-    :art: Portfolio: https://ibrahimwali.com <br>
-                Twitter: https://twitter.com/MibrahimWali<br>
+  :email:	ibrahim.wali@hotmail.com <br>
+  :art: Portfolio: https://ibrahimwali.com <be>
+  Twitter: https://twitter.com/MibrahimWali<br>
   :briefcase: Building https://www.koyal.pk/ - Pakistan Largest Regional Music Streaming Platform<br>

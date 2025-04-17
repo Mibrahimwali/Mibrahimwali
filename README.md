@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mibrahimwali/Mibrahimwali/main/Muhammad_Ibrahim-banner.png"/>
+<img src="https://github.com/Mibrahimwali/Mibrahimwali/blob/main/Banner%20PFP.png"/>
 
 <h1 align="center">Hi, I am Ibrahim Wali 👋 </h1>
 

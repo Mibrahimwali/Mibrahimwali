@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-Visionary entrepreneur and technology architect with **10+ years** of experience revolutionizing software development. As **Founder of IrusSoft** and **Director & CEO of NextChainX**, I'm pioneering sustainable AI and Blockchain innovations that bridge the gap between cutting-edge technology and real-world impact.
+Visionary entrepreneur and technology architect with **15+ years** of experience revolutionizing software development. As **Founder of IrusSoft** and **Director & CEO of NextChainX**, I'm pioneering sustainable AI and Blockchain innovations that bridge the gap between cutting-edge technology and real-world impact.
 
 My journey evolved from a passion for code to leading transformative projects, previously serving as **Head of Software Department at MobiTising**. Today, I'm building an empire of Web3, DeFi, and decentralized solutions that empower users globally.
 
@@ -319,22 +319,6 @@ I'm always excited to connect with fellow builders, innovators, and entrepreneur
 - 🎤 Speaking engagements and podcasts
 - 🎓 Mentoring aspiring blockchain developers
 - 🚀 Partnership opportunities
-
----
-
-## 🔮 Random Dev Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-## 🤣 Developer Humor
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</p>
 
 ---
 

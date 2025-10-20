@@ -164,25 +164,60 @@ Transform Digital Assets into Real Gold Value - Where Web3 Technology Meets Prec
 ## 🎯 Expertise & Specializations
 
 ### 🔐 Smart Contract Mastery
+
+**Ethereum & EVM Chains:**
 - **ERC Standards**: ERC20, ERC721, ERC1155, EIP721
 - **Token Economics**: Tokenomics design and implementation
 - **DeFi Protocols**: DEX, lending, staking mechanisms
 - **Security Auditing**: Best practices and vulnerability assessment
 - **Gas Optimization**: Efficient contract deployment strategies
 
+**Solana Ecosystem:**
+- **SPL Token 2022**: Advanced token program with transfer fees, confidential transfers, and metadata extensions
+- **Program Development**: Rust-based on-chain programs using Anchor framework
+- **Account Architecture**: PDA (Program Derived Addresses) and account optimization
+- **Compressed NFTs**: State compression for scalable NFT solutions
+- **Token Extensions**: Custom token behaviors and advanced features
+- **Cross-Program Invocations**: Complex multi-program interactions
+
 ### 💎 NFT Innovation
-- Real-world NFT minting and management
-- NFT marketplace architecture and development
-- Hybrid NFT solutions (Hybridify.xyz)
-- Multi-chain NFT interoperability
-- Royalty and revenue distribution systems
+
+**Next-Gen NFT Solutions:**
+- **Hybrid 404 Standard**: Pioneering semi-fungible token implementations
+- **Solana Core NFTs**: Metaplex Bubblegum and compressed NFT architecture
+- **SPL-404**: Solana's hybrid fungible/non-fungible token standard
+- Real-world NFT minting and management across multiple chains
+- NFT marketplace architecture and development (Hybridify.xyz)
+- Multi-chain NFT interoperability (Ethereum ↔ Solana bridges)
+- Dynamic NFT metadata and on-chain evolution
+- Royalty enforcement and creator revenue systems
+- Fractional NFT ownership models
+
+**Advanced Solana NFT Tools:**
+- **Metaplex Integration**: Candy Machine v3, Token Metadata, Auction House
+- **Compressed NFTs (cNFTs)**: State compression for millions of NFTs at low cost
+- **Programmable NFTs (pNFTs)**: Custom transfer rules and royalty enforcement
+- **NFT Staking**: Lock mechanisms and reward distribution
+- **Collection Management**: On-chain collections with verified creators
+
+### ⚡ Solana Advanced Tooling
+- **Custom RPC Solutions**: Optimized RPC endpoints and transaction handling
+- **MEV & Arbitrage Bots**: High-frequency trading on Solana DEXs
+- **Transaction Optimization**: Priority fees and compute unit optimization
+- **Jito Integration**: MEV and block production infrastructure
+- **Solana Actions & Blinks**: Interactive blockchain actions
+- **Versioned Transactions**: V0 transactions with lookup tables
+- **Token Vesting**: Time-locked token distribution programs
+- **Multi-Signature Wallets**: Secure treasury management solutions
 
 ### 🌐 Full-Stack Excellence
-- Scalable backend architectures
-- Modern frontend frameworks
-- Database optimization
-- API design and implementation
+- Scalable backend architectures (Node.js, Rust)
+- Modern frontend frameworks (React, Next.js, Vue.js)
+- Solana Web3.js & Anchor client integration
+- Database optimization (PostgreSQL, MongoDB, Redis)
+- API design and implementation (REST, GraphQL, WebSocket)
 - Real-time systems and WebSocket integration
+- Blockchain indexing and data aggregation
 
 ---
 

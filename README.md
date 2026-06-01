@@ -45,6 +45,20 @@ My journey evolved from a passion for code to leading transformative projects, p
 
 ---
 
+## Knowledge libraries
+
+| Library | Focus |
+|---------|--------|
+| [ai-business-playbooks](https://github.com/Mibrahimwali/ai-business-playbooks) | Enterprise AI, agents, RAG, automation |
+| [blockchain-enterprise-blueprints](https://github.com/Mibrahimwali/blockchain-enterprise-blueprints) | Tokenization, Web3, digital assets |
+| [founder-operating-system](https://github.com/Mibrahimwali/founder-operating-system) | Leadership, hiring, fundraising, scaling |
+| [future-of-ai-and-web3](https://github.com/Mibrahimwali/future-of-ai-and-web3) | Decentralized AI, agent economies, research |
+| [1000-startup-ideas](https://github.com/Mibrahimwali/1000-startup-ideas) | Startup opportunities across industries |
+| [system-design-for-founders](https://github.com/Mibrahimwali/system-design-for-founders) | Architecture, cloud, scalability |
+
+
+___
+
 ## 🏗️ Featured Projects & Ventures
 
 ### 🔗 Blockchain Toolsets Ecosystem
